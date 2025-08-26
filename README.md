@@ -76,7 +76,7 @@ This project demonstrates how **computer vision** and **human-computer interacti
 Here are some previews of the game:
 
 ### Welcome Screen
-![Welcome Screen](ScreenShots/start.png)
+![Welcome Screen](ScreenShots/Start.png)
 
 ### Gesture Detection
 ![Gesture Detection](ScreenShots/ThumpUp.png)
